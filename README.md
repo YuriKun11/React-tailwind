@@ -2,7 +2,8 @@
 
 TEMPLATE LANG
 
-IMAGES: 
+Sample Image: 
+
 ![image](https://github.com/user-attachments/assets/d18b0946-3313-40da-bb53-088b1bcbab8a)
 
 ![image](https://github.com/user-attachments/assets/31ed798a-6cd6-4fb5-827c-5b53a8336ed2)
